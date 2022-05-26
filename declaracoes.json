@@ -1,0 +1,22 @@
+{
+    "comentarios": [
+        {
+            "email" : "bruno-matsonunga@mailer.com.br",
+            "nome" : "Bruno",
+            "conteudo" : "Contratei os serviços para o site da minha empresa e não me arrependo, profissional super prestativo e atencioso.",
+            "data" : "26/05/2021"
+        },
+        {
+            "email" : "pedrosp3@gmail.com",
+            "nome" : "Pedro",
+            "conteudo" : "Melhor profissional que encontrei, preços convidativos, serviço amigável e bonito",
+            "data" : "14/12/2021"
+        },
+        {
+            "email" : "carvalhoalice@hotmail.com",
+            "nome" : "Alice",
+            "conteudo" : "Amei o site, super legal e interativo, fiz um site para mim e vou fazer um para meu pai.",
+            "data" : "06/03/2022"
+        }
+    ]
+}
